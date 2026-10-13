@@ -501,22 +501,3 @@ The video covers:
 \- \*\*Project:\*\* RaceDay – POE, Part 2
 
 
-
-\---
-
-
-
-\## 12. References
-
-
-
-Microsoft (2024) \*ASP.NET Core Web API documentation\*. Available at: https://learn.microsoft.com/en-us/aspnet/core/web-api/ (Accessed: 13 October 2026).
-
-
-
-Microsoft (2024) \*Entity Framework Core documentation\*. Available at: https://learn.microsoft.com/en-us/ef/core/ (Accessed: 13 October 2026).
-
-
-
-Pears, R. and Shields, G. (2022) \*Cite them right: the essential referencing guide\*. 12th edn. London: Bloomsbury Academic.
-
