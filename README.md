@@ -448,16 +448,7 @@ A GitHub Actions workflow runs on every push and pull request. It:
 
 
 
-!\[CI/CD Success](ci-success.png)
-
-
-
-\*Screenshot taken after a successful workflow run in the GitHub Actions tab.\*
-
-
-
-\---
-
+<img width="1445" height="167" alt="Screenshot 2026-10-13 191201" src="https://github.com/user-attachments/assets/cc83dc19-5391-4bb2-86f3-ec63c3c3a105" />
 
 
 \## 10. The Video Walkthrough
