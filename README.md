@@ -1,0 +1,2 @@
+# Programming6212_Assignmnet2
+Part2 of Assignment2/Sefako_Siphosethu_Mongalo
